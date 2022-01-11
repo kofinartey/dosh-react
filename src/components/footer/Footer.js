@@ -22,7 +22,7 @@ function Footer() {
     <footer className={classes.Footer}>
       <section className={classes.main}>
         <div className={classes.companyDetails}>
-          <img src={logo} />
+          <img src={logo} alt="" />
           <div className="address">
             <p>Corporate Office</p>
             <p>Sawtel Inc</p>
