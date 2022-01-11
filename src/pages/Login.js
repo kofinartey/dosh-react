@@ -67,7 +67,7 @@ function Login() {
             <label>Password</label>
             <input type="text" />
           </div>
-          <a href="#" className={classes.forgot}>
+          <a href="d" className={classes.forgot}>
             <img src={lock} alt="" />I forgot my password
           </a>
           <button className={classes.button}>Continue</button>

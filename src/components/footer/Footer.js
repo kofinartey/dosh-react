@@ -37,10 +37,10 @@ function Footer() {
             <p>Phone: 1-833-769-1767</p>
             <p>Fax: 1-833-769-1767</p>
             <p>
-              <a href="#">Online Support</a>
+              <a href="d">Online Support</a>
             </p>
             <p>
-              <a href="#">Request Service</a>
+              <a href="d">Request Service</a>
             </p>
           </div>
         </div>
@@ -64,19 +64,19 @@ function Footer() {
             <img src={bank} alt="Bank" />
           </div>
           <div className={classes.logoLinks__bottom}>
-            <a href="#">
+            <a href="d">
               <img src={facebook} alt="facebook link" />
             </a>
-            <a href="#">
+            <a href="d">
               <img src={twitter} alt="twitter link" />
             </a>
-            <a href="#">
+            <a href="d">
               <img src={IG} alt="instagram link" />
             </a>
-            <a href="#">
+            <a href="d">
               <img src={linkedIn} alt="linkedIn link" />
             </a>
-            <a href="#">
+            <a href="d">
               <img src={YT} alt="youtube link" />
             </a>
           </div>

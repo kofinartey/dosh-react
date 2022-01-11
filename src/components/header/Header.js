@@ -11,7 +11,7 @@ function Header() {
     <header className={classes.Header}>
       <div className={classes.header__top}>
         <div className="header__logo">
-          <a href="#">
+          <a href="df">
             <img src={logo} alt="Dosh logo" />
           </a>
         </div>
@@ -21,7 +21,7 @@ function Header() {
             <button>LOGIN</button>
           </div>
           <p>
-            Not registered? <a href="#">Signup</a>
+            Not registered? <a href="#de">Signup</a>
           </p>
         </div>
       </div>
